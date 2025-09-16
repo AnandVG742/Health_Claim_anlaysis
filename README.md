@@ -15,5 +15,3 @@ An interactive web dashboard built with **Streamlit** to analyze healthcare insu
   - Gender vs. claim amounts
   - Claim type analysis
 - Cost optimization insights
-
-## 📂 Project Structure
