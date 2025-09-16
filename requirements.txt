@@ -1,0 +1,8 @@
+
+---
+
+### 🔹 requirements.txt  
+```txt
+pandas
+plotly
+streamlit
